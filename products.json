@@ -1,0 +1,19 @@
+{
+    "products": [{
+            "id": 1,
+            "Name": "mg",
+            "Cost": "Rs100"
+        },
+        {
+            "id": 2,
+            "Name": "puma",
+            "Cost": "Rs200"
+
+        },
+        {
+            "id": 3,
+            "Name": "puma",
+            "Cost": "Rs300"
+        }
+    ]
+}:

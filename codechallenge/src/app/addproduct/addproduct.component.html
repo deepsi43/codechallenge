@@ -1,0 +1,15 @@
+<h2>Add Product</h2>
+<form id="formNewProduct" name="formNewProduct" #companyData="ngForm" (ngSubmit)="addNewCompany( productData.value) ">
+    <label>
+        Name:
+    </label>
+    <input type="text" name="name" id="name" placeholder="name" ngModel>
+    <br>
+    <label>
+       Cost :
+    </label>
+
+    <input type="text" name="Cost" id="Cost" placeholder="Cost" ngModel>
+    <br>
+
+    <input type="submit" value="Add Company"> </form>

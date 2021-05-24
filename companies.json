@@ -1,0 +1,21 @@
+{
+    "companies": [{
+            "id": 1,
+            "Name": "puma",
+            "GST": "1abcd654"
+        },
+        {
+            "id": 2,
+            "Name": "puma",
+            "GST": "1abc8654"
+
+        },
+        {
+            "id": 3,
+            "Name": "puma",
+            "GST": "1abdj654"
+
+        }
+
+    ]
+}
